@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Kerthikrosan M**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=38A1DB&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Software+Developer;Specialized+in+MERN+Stack+%26+Analytics;Let%E2%80%99s+Build+Amazing+Things!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Software+Developer;Specialized+in+MERN+Stack+%26+Analytics;Let%E2%80%99s+Build+Amazing+Things!" alt="Typing Animation" />
 </div>
 
 ---
@@ -20,7 +20,9 @@
 
 ## 🌟 **My Tech Stack**
 
-![Tech Stack](https://skillicons.dev/icons?i=react,nodejs,mongodb,postgresql,python,flask,js,html,css,tailwind,tableau,django&theme=light)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,postgresql,python,flask,js,html,css,tailwind,tableau,django&theme=light" alt="Tech Stack" />
+</div>
 
 ---
 
@@ -60,9 +62,9 @@
 ## 📈 **My GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerthikrosan&bg_color=1a1b27&color=ffffff&line=38a1db&point=f2f2f2&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerthikrosan&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
   <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kerthikrosan&theme=github_dark" alt="Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kerthikrosan&theme=vue" alt="Profile Summary"/>
   <br/>
   <img src="https://streak-stats.demolab.com?user=kerthikrosan&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
@@ -72,9 +74,9 @@
 ## 🌌 **Advanced Analytics and Visuals**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kerthikrosan&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kerthikrosan&show_icons=true&theme=radical&title_color=00FFFF&icon_color=00FFFF" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerthikrosan&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerthikrosan&layout=compact&theme=radical&title_color=00FFFF" alt="Top Languages"/>
 </div>
 
 ---
@@ -97,13 +99,13 @@
 
 <div align="center">
   <a href="https://kerthikrosan.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=00FFFF" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/kerthikrosan-m/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=00FFFF" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/kerthikrosan">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=00FFFF" alt="GitHub"/>
   </a>
 </div>
 
