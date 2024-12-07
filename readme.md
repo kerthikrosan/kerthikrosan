@@ -1,12 +1,12 @@
-# 👋 Hi, I'm **Kerthikrosan M**
+<h1 style="color:#00FFFF;">☕ 👋 Hi, I'm <strong>Kerthikrosan M</strong></h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Software+Developer;Specialized+in+MERN+Stack+%26+Analytics;Let%E2%80%99s+Build+Amazing+Things!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Software+Developer;Specialized+in+MERN+Stack+%26+Analytics;Enjoy+Some+Code+%26+Coffee!" alt="Typing Animation" />
 </div>
 
 ---
 
-## 💻 **About Me**
+<h2 style="color:#00FFFF;">💻 <strong>About Me</strong></h2>
 
 🚀 Enthusiastic and detail-oriented **Software Developer** with expertise in backend development, data analytics, and MERN stack projects. I specialize in building dynamic, scalable, and visually appealing applications.
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🌟 **My Tech Stack**
+<h2 style="color:#00FFFF;">🌟 <strong>My Tech Stack</strong></h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,postgresql,python,flask,js,html,css,tailwind,tableau,django&theme=light" alt="Tech Stack" />
@@ -26,7 +26,7 @@
 
 ---
 
-## 🧑‍💻 **Featured Projects**
+<h2 style="color:#00FFFF;">🧑‍💻 <strong>Featured Projects</strong></h2>
 
 ### 🎨 **1. Euro Design Studio**
 
@@ -59,10 +59,10 @@
 
 ---
 
-## 📈 **My GitHub Analytics**
+<h2 style="color:#00FFFF;">📈 <strong>My GitHub Analytics</strong></h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerthikrosan&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerthikrosan&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" style="transition: transform 0.3s;"/>
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kerthikrosan&theme=vue" alt="Profile Summary"/>
   <br/>
@@ -71,17 +71,17 @@
 
 ---
 
-## 🌌 **Advanced Analytics and Visuals**
+<h2 style="color:#00FFFF;">🌌 <strong>Advanced Analytics and Visuals</strong></h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kerthikrosan&show_icons=true&theme=radical&title_color=00FFFF&icon_color=00FFFF" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kerthikrosan&show_icons=true&theme=radical&title_color=00FFFF&icon_color=00FFFF" alt="GitHub Stats" style="transition: opacity 0.5s;"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerthikrosan&layout=compact&theme=radical&title_color=00FFFF" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerthikrosan&layout=compact&theme=radical&title_color=00FFFF" alt="Top Languages" style="transition: opacity 0.5s;"/>
 </div>
 
 ---
 
-## 🛠️ **Skills Overview**
+<h2 style="color:#00FFFF;">🛠️ <strong>Skills Overview</strong></h2>
 
 ### Languages
 
@@ -95,7 +95,7 @@
 
 ---
 
-## 📡 **Connect with Me**
+<h2 style="color:#00FFFF;">📡 <strong>Connect with Me</strong></h2>
 
 <div align="center">
   <a href="https://kerthikrosan.vercel.app">
@@ -111,10 +111,12 @@
 
 ---
 
-## 🎉 **Dynamic Features**
+<h2 style="color:#00FFFF;">🎉 <strong>Dynamic Features</strong></h2>
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tknCqiJrBQG6bxC/giphy.gif" alt="Showcase Animation" width="300"/>
+  <br/>
+  ☕ <em>Fueled by coffee and a passion for coding!</em>
 </div>
 
 ### 🌟 "Let’s Build Something Amazing Together!" 🌟
