@@ -1,4 +1,4 @@
-<h1 style="color:#00FFFF;">☕ 👋 Hi, I'm <strong>Kerthikrosan M</strong></h1>
+<h1 style="color:#00FFFF;">☕ 👋 Hi, I'm <strong>KerthikrosanM</strong></h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Software+Developer;Specialized+in+MERN+Stack+%26+Analytics;Enjoy+Some+Code+%26+Coffee!" alt="Typing Animation" />
