@@ -41,12 +41,12 @@
 ### 🏖️ **2. Travel Your Way**
 
 - **Description**: A premium full-stack booking platform for modern explorers.
-- **Tech Stack**: React.js, MongoDB, Node.js
+- **Tech Stack**: React.js, Mysql, Node.js
 - **Features**:
   - Intuitive UI/UX design
   - Scalable architecture
   - Responsive interface for all devices
-- **[Live Demo](https://kerthikrosan.vercel.app)**
+- **[Live Demo](https://rpstours.com)**
 
 ### 📊 **3. Data Visualization Dashboards**
 
