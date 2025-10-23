@@ -1,4 +1,4 @@
-<h1 style="color:#00FFFF;">☕ 👋 Hi, I'm <strong>Kerthikrosan M</strong></h1>
+<!-- <h1 style="color:#00FFFF;">☕ 👋 Hi, I'm <strong>Kerthikrosan M</strong></h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Software+Developer;Specialized+in+MERN+Stack+%26+Analytics;Enjoy+Some+Code+%26+Coffee!" alt="Typing Animation" />
@@ -119,4 +119,126 @@
   ☕ <em>Fueled by coffee and a passion for coding!</em>
 </div>
 
-### 🌟 "Let’s Build Something Amazing Together!" 🌟
+### 🌟 "Let’s Build Something Amazing Together!" 🌟 -->
+
+
+
+
+
+
+
+
+<h1 align="center" style="color:#00FFFF; text-shadow: 0 0 10px #00FFFF;">☕ 👋 Hi, I'm <strong>Kerthikrosan M</strong></h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+My+Cyber+Hub!;Full-Stack+Developer+%7C+Data+Analytics+Enthusiast;MERN+%2B+Python+%2B+Tableau;Let's+Code+the+Future+Together!"/>
+</div>
+
+---
+
+<h2 style="color:#00FFFF; text-shadow: 0 0 10px #00FFFF;">💻 <strong>About Me</strong></h2>
+
+🚀 Passion-driven **Software Developer** focused on backend engineering, analytics, and sleek front-end experiences.  
+⚙️ I craft **data-driven**, **scalable**, and **pixel-perfect** applications that balance logic & aesthetics.
+
+🎓 <strong>Education:</strong> BE in Computer Science & Engineering, Sathyabama University (2023)  
+🌱 <strong>Exploring:</strong> Advanced backend integrations, Tableau & Apache Superset  
+📍 <strong>Location:</strong> Bangalore Urban, India  
+
+---
+
+<h2 style="color:#00FFFF; text-shadow: 0 0 10px #00FFFF;">⚡ <strong>Tech Stack Galaxy</strong></h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgresql,python,flask,js,html,css,tailwind,tableau,django&theme=dark" />
+</div>
+
+---
+
+<h2 style="color:#00FFFF; text-shadow: 0 0 10px #00FFFF;">🚀 <strong>Featured Projects</strong></h2>
+
+### 🎨 **1. Euro Design Studio**
+- **Stack:** React.js | MongoDB | Email.js  
+- **About:** A digital studio showcasing world-class architectural & interior designs.  
+- ⚙️ SEO Optimized   📱 Responsive   📧 Client Inquiry Integration  
+- 🔗 **[Live Demo](https://euro-design-studio.web.app)**
+
+---
+
+### 🏖️ **2. Travel Your Way**
+- **Stack:** React.js | Node.js | MySQL  
+- **About:** A next-gen travel booking system for explorers.  
+- ✈️ Modern UI/UX   ⚙️ Scalable APIs   📲 Cross-Platform Ready  
+- 🔗 **[Live Demo](https://rpstours.com)**
+
+---
+
+### 📊 **3. Data Visualization Dashboards**
+- **Stack:** Python | Flask | Tableau | Apache Superset  
+- **About:** Real-time dashboards for business insights.  
+- 📈 Automated ETL   📊 Dynamic Visuals   🧠 Smart Analytics  
+
+---
+
+<h2 style="color:#00FFFF; text-shadow: 0 0 10px #00FFFF;">📈 <strong>GitHub Analytics & Activity</strong></h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerthikrosan&bg_color=0d1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kerthikrosan&theme=tokyonight"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=kerthikrosan&theme=neon-palenight&hide_border=true"/>
+</div>
+
+---
+
+<h2 style="color:#00FFFF; text-shadow: 0 0 10px #00FFFF;">🌌 <strong>Advanced Analytics & Visuals</strong></h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kerthikrosan&show_icons=true&theme=neon&title_color=00FFFF&icon_color=00FFFF"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerthikrosan&layout=compact&theme=neon&title_color=00FFFF"/>
+</div>
+
+---
+
+<h2 style="color:#00FFFF; text-shadow: 0 0 10px #00FFFF;">🧠 <strong>Skill Matrix</strong></h2>
+
+### 💬 Languages  
+JavaScript | Python | TypeScript  
+
+### 🧩 Frameworks & Tools  
+MERN Stack (Mongo, Express, React, Node)  |  Flask  |  Django  |  Tailwind  |  Tableau  |  Superset  
+
+---
+
+<h2 style="color:#00FFFF; text-shadow: 0 0 10px #00FFFF;">🤝 <strong>Connect with Me</strong></h2>
+
+<div align="center">
+  <a href="https://kerthikrosan.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00FFFF&labelColor=0D1117"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kerthikrosan-m/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FFFF&labelColor=0D1117"/>
+  </a>
+  <a href="https://github.com/kerthikrosan">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFFF&labelColor=0D1117"/>
+  </a>
+</div>
+
+---
+
+<h2 style="color:#00FFFF; text-shadow: 0 0 10px #00FFFF;">🌠 <strong>Inspiration Zone</strong></h2>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/IaU4uWf3y8d4s/giphy.gif" alt="A.P.J. Abdul Kalam" width="300" style="border-radius:20px;box-shadow:0 0 20px #00FFFF;"/>
+  <br/>
+  <em style="color:#00FFFF;">"Dream is not that which you see while sleeping, it is something that does not let you sleep."</em>
+  <br/><br/>
+  ☕ <em style="color:#00FFFF;">Fueled by Coffee ☕ and Infinite Curiosity 🚀</em>
+</div>
+
+---
+
+<h3 align="center" style="color:#00FFFF; text-shadow: 0 0 10px #00FFFF;">✨ “Let’s Build Something Amazing Together!” ✨</h3>
+
