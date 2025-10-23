@@ -128,7 +128,7 @@
 
 
 
-<h1 align="center" style="color:#00FFFF; text-shadow: 0 0 10px #00FFFF;">☕ 👋 Hi, I'm <strong>Kerthikrosan M</strong></h1>
+<!-- <h1 align="center" style="color:#00FFFF; text-shadow: 0 0 10px #00FFFF;">☕ 👋 Hi, I'm <strong>Kerthikrosan M</strong></h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+My+Cyber+Hub!;Full-Stack+Developer+%7C+Data+Analytics+Enthusiast;MERN+%2B+Python+%2B+Tableau;Let's+Code+the+Future+Together!"/>
@@ -240,5 +240,71 @@ MERN Stack (Mongo, Express, React, Node)  |  Flask  |  Django  |  Tailwind  |  T
 
 ---
 
-<h3 align="center" style="color:#00FFFF; text-shadow: 0 0 10px #00FFFF;">✨ “Let’s Build Something Amazing Together!” ✨</h3>
+<h3 align="center" style="color:#00FFFF; text-shadow: 0 0 10px #00FFFF;">✨ “Let’s Build Something Amazing Together!” ✨</h3> -->
+
+
+<!-- 🌌 KERTHIKROSAN - NEON CYBER README  -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&pause=800&color=00FFFF&center=true&vCenter=true&width=700&lines=Hey+There+👋+I'm+Kerthikrosan+M;Full-Stack+Developer+⚡;MERN+Stack+%7C+Data+Analytics+%7C+Python;Let's+Code+the+Future+Together!+🚀" alt="Typing Animation">
+</h1>
+
+---
+
+<div align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=kerthikrosan&theme=darkmode&data=followers,repositories,stars,commits&title_color=00FFFF&icon_color=00FFFF&border_color=00FFFF" alt="Profile Widget"/>
+</div>
+
+---
+
+## 💫 **About Me**
+💻 I’m a passionate **Software Developer** who turns coffee ☕ into clean code and creative digital experiences.  
+🌍 Based in **Bangalore, India**, I love building **MERN apps**, **data dashboards**, and futuristic solutions.  
+🧠 Currently exploring **AI-integrated analytics systems** with **Python**, **Tableau**, and **Superset**.  
+🎯 Goal: To build products that blend **aesthetic design + analytical depth + real-world impact**.
+
+---
+
+## ⚙️ **Tech Arsenal**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgresql,python,flask,django,tailwind,html,css,js,ts,git,github,tableau,vscode&perline=10" />
+</div>
+
+---
+
+## 🧩 **Top Projects**
+
+### 🎨 **1. Euro Design Studio**
+> 🏗️ A full-stack portfolio platform for architectural and interior design.
+- **Stack:** React.js • MongoDB • Email.js  
+- **Features:** SEO-optimized • Client Inquiry • Responsive Design  
+🔗 [**Live Demo**](https://euro-design-studio.web.app)
+
+---
+
+### 🏖️ **2. Travel Your Way**
+> 🌍 Premium travel booking system for global explorers.
+- **Stack:** React.js • Node.js • MySQL  
+- **Highlights:** Dynamic Packages • Real-time Booking • Cross-Device UI  
+🔗 [**Live Demo**](https://rpstours.com)
+
+---
+
+### 📊 **3. Data Visualization Dashboards**
+> 📈 Interactive dashboards for real-time business intelligence.
+- **Stack:** Python • Flask • Tableau • Apache Superset  
+- **Highlights:** Automated ETL • Live Visuals • Embedded Analytics  
+
+---
+
+## 📈 **GitHub Analytics**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kerthikrosan&show_icons=true&theme=radical&title_color=00FFFF&icon_color=00FFFF&bg_color=0D1117&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerthikrosan&layout=compact&theme=radical&title_color=00FFFF&bg_color=0D1117&hide_border=true" height="180em"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerthikrosan&bg_color_
 
